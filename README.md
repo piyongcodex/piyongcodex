@@ -42,6 +42,3 @@ Welcome to my GitHub profile! I'm **Rio Sumandal** (piyongcodex), a passionate F
 I love building clean and scalable systems, and I’m always improving my coding skills.
 
 ---
-
-### 📈 GitHub Stats
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyongcodex&show_icons=true&theme=radical)
