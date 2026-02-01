@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**piyongcodex/piyongcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Rio Sumandal** (piyongcodex), a passionate Full Stack Software Developer **Software Engineer** specializing in **Back End Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- Building scalable **ASP.NET Core Web APIs**
+- Implementing **Clean Architecture** and **Repository Pattern**
+- Creating robust backend solutions with best practices
+
+---
+
+### 🌱 I’m currently learning
+- Advanced **Domain-Driven Design (DDD)**
+
+---
+
+### 👯 I’m looking to collaborate on
+- Open-source backend projects
+- API development and architecture improvements
+- Any project involving **C# / .NET**
+
+---
+
+### 💬 Ask me about
+- ASP.NET Core Web API
+- Clean Architecture
+- Entity Framework Core
+- Repository Pattern
+- Validation & Result Patterns
+
+---
+
+### 📫 How to reach me
+- **Email:** [rio.sumandal0907.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/rio-sumandal-479042253/]  
+
+---
+
+### ⚡ Fun fact
+I love building clean and scalable systems, and I’m always improving my coding skills.
+
+---
+
+### 📈 GitHub Stats
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyongcodex&show_icons=true&theme=radical)
