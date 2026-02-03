@@ -1,4 +1,4 @@
-# 👨‍💻 Rio Sumandal (PiyongX) #Leo
+# 👨‍💻 Rio Sumandal (PiyongX)
 Career shifter. Government employee turned **Full Stack Developer**. Building web & desktop apps one commit at a time.
 
 - 🔧 I'm currently working on building scalable APIs
